@@ -1,0 +1,3 @@
+[submodule "spectracle"]
+	path = spectracle
+	url = https://github.com/silverXnoise/spectracle
